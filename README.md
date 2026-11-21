@@ -1,11 +1,14 @@
+
 <div align="center">
 
-<img src="assets/retro-code-arcade.gif" alt="Animated Retro Code Arcade banner for Pamela Ramirez — Programming, IT and Computer Science" width="100%" />
+# Pamela Ramirez
+
+<img src="assets/retro-code-arcade-v2.gif" alt="Animated Retro Code Arcade banner for Pamela Ramirez" width="100%" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/🎮_GITHUB-pramirez--tech-141020?style=for-the-badge&logo=github&logoColor=00F5E9&labelColor=141020)](https://github.com/pramirez-tech)
-[![LinkedIn](https://img.shields.io/badge/✦_LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141020)](https://www.linkedin.com/in/pamela-ramirez12)
+[![GitHub](https://img.shields.io/badge/GitHub-pramirez--tech-141020?style=for-the-badge&logo=github&logoColor=00F5E9&labelColor=141020)](https://github.com/pramirez-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141020)](https://www.linkedin.com/in/pamela-ramirez12)
 
 `[ PLAYER: PAMELA RAMIREZ ]` · `[ COMPUTER SCIENCE ]` · `[ PROGRAMMING / IT ]`
 
@@ -21,7 +24,11 @@ C:\PORTFOLIO> whoami
 
 I am pursuing a **Bachelor of Arts in Computer Science** at **Florida International University**, along with an **Undergraduate Certificate in Cybersecurity Intelligence and Information Policy**.
 
-My background combines programming education, Python instruction, independent technical troubleshooting, and professional experience in behavioral services. I'm developing my technical abilities through university education, independent learning, and practical problem-solving.
+My background combines programming education, Python instruction, independent technical troubleshooting, and professional experience in behavioral services.
+
+I'm developing my technical abilities through university education, independent learning, and practical problem-solving.
+
+---
 
 <img src="assets/02-skill-inventory.png" alt="02 — Skill Inventory" width="100%" />
 
@@ -42,17 +49,46 @@ My background combines programming education, Python instruction, independent te
 | `05 // COMMUNICATION` | Documentation, programming instruction |
 | `06 // ANALYSIS` | Logical reasoning, problem-solving |
 
+---
+
 <img src="assets/03-quest-log.png" alt="03 — Quest Log" width="100%" />
 
 ### `> QUEST_01: WINDOWS WI-FI CONNECTIVITY`
 
 **Area:** IT Support & Technical Problem-Solving
 
-Investigated and resolved a Windows wireless connectivity issue through independent research and technical troubleshooting. Researched possible causes using technical resources, community discussions, and AI-assisted research tools.
+Investigated and resolved a Windows 11 wireless connectivity issue through independent research and technical troubleshooting.
 
-**Focus:** `Technical investigation` · `Windows troubleshooting` · `Independent research`
+The investigation included examining the wireless adapter in Device Manager, troubleshooting drivers, performing a network reset, and researching possible causes.
 
-> 🎮 **QUEST STATUS:** Case study documentation in progress.
+The issue was ultimately resolved by identifying and re-enabling a disabled wireless network adapter through Windows Network Connections.
+
+**Focus:**
+
+`Windows 11` · `Technical Investigation` · `Network Troubleshooting` · `Independent Research`
+
+**Resolution:**
+
+```text
+C:\WINDOWS\SYSTEM32> ncpa.cpl
+
+[+] Network Connections opened
+[+] Disabled Wi-Fi adapter identified
+[+] Wireless adapter enabled
+[✓] Wi-Fi connectivity restored
+```
+
+**QUEST STATUS:** `COMPLETED ✅`
+
+<div align="center">
+
+[![View Case Study](https://img.shields.io/badge/🎮_QUEST_01-VIEW_FULL_CASE_STUDY-FF4DCB?style=for-the-badge&logo=windows11&logoColor=white&labelColor=231334)](https://github.com/pramirez-tech/windows-wifi-troubleshooting)
+
+**[▶ VIEW COMPLETE WINDOWS WI-FI TROUBLESHOOTING PROJECT](https://github.com/pramirez-tech/windows-wifi-troubleshooting)**
+
+</div>
+
+---
 
 <img src="assets/04-python-instructor.png" alt="04 — Python Instructor" width="100%" />
 
@@ -64,6 +100,8 @@ Taught introductory **Python** programming to students, supporting their underst
 - Guided students through coding exercises
 - Supported debugging and problem-solving
 - Adapted technical explanations to students' learning needs
+
+---
 
 <img src="assets/05-education-file.png" alt="05 — Education File" width="100%" />
 
@@ -80,6 +118,8 @@ Taught introductory **Python** programming to students, supporting their underst
 **Associate of Arts in Psychology**  
 `STATUS: COMPLETED`
 
+---
+
 <img src="assets/06-professional-xp.png" alt="06 — Professional XP" width="100%" />
 
 ### `> REGISTERED BEHAVIOR TECHNICIAN (RBT)`
@@ -93,10 +133,13 @@ Professional experience in behavioral services involving systematic observation,
 - Professional communication
 - Collaboration and adaptability
 
+---
+
 <img src="assets/07-next-level.png" alt="07 — Next Level" width="100%" />
 
 ```text
 C:\PORTFOLIO> select_interest
+
 [✓] Software Development
 [✓] Information Technology
 [✓] Computer Systems & Networking
@@ -105,6 +148,8 @@ C:\PORTFOLIO> select_interest
 ```
 
 *These are areas of interest, not claims of completed projects or professional experience.*
+
+---
 
 <img src="assets/08-connect-portal.png" alt="08 — Connect Portal" width="100%" />
 
