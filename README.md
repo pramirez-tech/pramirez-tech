@@ -9,8 +9,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-pramirez--tech-141020?style=for-the-badge&logo=github&logoColor=00F5E9&labelColor=141020)](https://github.com/pramirez-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141020)](https://www.linkedin.com/in/pamela-ramirez12)
+[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_PROFILE-FF4DCB?style=for-the-badge&logo=github&logoColor=white&labelColor=231334)](https://github.com/pramirez-tech)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-16CFF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=231334)](https://www.linkedin.com/in/pamela-ramirez12)
 
 `[ PLAYER: PAMELA RAMIREZ ]` · `[ COMPUTER SCIENCE ]` · `[ PROGRAMMING / IT ]`
 
