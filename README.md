@@ -1,147 +1,120 @@
-
 <div align="center">
 
-# Pamela Ramirez
+<img src="assets/retro-code-arcade.gif" alt="Animated Retro Code Arcade banner for Pamela Ramirez — Programming, IT and Computer Science" width="100%" />
 
-### Computer Science | Programming | Information Technology
+<br>
 
-Computer Science undergraduate at Florida International University
-with a background in programming instruction,
-technical troubleshooting, and analytical problem-solving.
+[![GitHub](https://img.shields.io/badge/🎮_GITHUB-pramirez--tech-141020?style=for-the-badge&logo=github&logoColor=00F5E9&labelColor=141020)](https://github.com/pramirez-tech)
+[![LinkedIn](https://img.shields.io/badge/✦_LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141020)](https://www.linkedin.com/in/pamela-ramirez12)
 
-Interested in software development, information technology,
-cybersecurity, and emerging technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-pramirez--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramirez-tech)
+`[ PLAYER: PAMELA RAMIREZ ]` · `[ COMPUTER SCIENCE ]` · `[ PROGRAMMING / IT ]`
 
 </div>
 
----
+<img src="assets/01-player-profile.png" alt="01 — Player Profile" width="100%" />
 
-## About Me
+```text
+C:\PORTFOLIO> whoami
+> Pamela Ramirez
+> Computer Science Undergraduate | Programming | IT
+```
 
-I am pursuing a Bachelor of Arts in Computer Science
-at Florida International University, along with an
-Undergraduate Certificate in Cybersecurity Intelligence
-and Information Policy.
+I am pursuing a **Bachelor of Arts in Computer Science** at **Florida International University**, along with an **Undergraduate Certificate in Cybersecurity Intelligence and Information Policy**.
 
-My background combines programming education,
-Python instruction, independent technical
-troubleshooting, and professional experience
-in behavioral services.
+My background combines programming education, Python instruction, independent technical troubleshooting, and professional experience in behavioral services. I'm developing my technical abilities through university education, independent learning, and practical problem-solving.
 
-I am developing my technical abilities through
-university education, independent learning,
-and practical problem-solving.
+<img src="assets/02-skill-inventory.png" alt="02 — Skill Inventory" width="100%" />
 
-My professional interests include software development,
-IT support, computer systems, cybersecurity,
-and artificial intelligence.
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-1B102F?style=for-the-badge&logo=openjdk&logoColor=FF64D5)
+![Python](https://img.shields.io/badge/Python-1B102F?style=for-the-badge&logo=python&logoColor=47F8EF)
+![Windows](https://img.shields.io/badge/Windows-1B102F?style=for-the-badge&logo=windows11&logoColor=47F8EF)
 
-## Technical Skills
+</div>
 
-| Area | Skills & Knowledge |
-|------|--------------------|
-| Programming | Java, Python |
-| Programming Concepts | Variables, Loops, Conditionals, Object-Oriented Programming |
-| Operating Systems | Windows |
-| Technical Troubleshooting | Problem Investigation, Technical Research |
-| Technical Communication | Documentation, Programming Instruction |
-| Analytical Skills | Logical Reasoning, Problem-Solving |
+| `MODULE` | `KNOWLEDGE / EXPERIENCE` |
+|:--|:--|
+| `01 // PROGRAMMING` | Java, Python |
+| `02 // FUNDAMENTALS` | Variables, loops, conditionals, object-oriented programming |
+| `03 // SYSTEMS` | Windows |
+| `04 // TROUBLESHOOTING` | Problem investigation, technical research |
+| `05 // COMMUNICATION` | Documentation, programming instruction |
+| `06 // ANALYSIS` | Logical reasoning, problem-solving |
 
----
+<img src="assets/03-quest-log.png" alt="03 — Quest Log" width="100%" />
 
-## Technical Experience
+### `> QUEST_01: WINDOWS WI-FI CONNECTIVITY`
 
-### Windows Wi-Fi Connectivity Troubleshooting
+**Area:** IT Support & Technical Problem-Solving
 
-**IT Support & Technical Problem-Solving**
+Investigated and resolved a Windows wireless connectivity issue through independent research and technical troubleshooting. Researched possible causes using technical resources, community discussions, and AI-assisted research tools.
 
-Investigated and resolved a Windows wireless
-connectivity issue through independent research
-and technical troubleshooting.
+**Focus:** `Technical investigation` · `Windows troubleshooting` · `Independent research`
 
-Researched possible causes using technical
-resources, community discussions, and
-AI-assisted research tools.
+> 🎮 **QUEST STATUS:** Case study documentation in progress.
 
-This experience strengthened my understanding
-of technical investigation, system troubleshooting,
-and practical problem-solving.
+<img src="assets/04-python-instructor.png" alt="04 — Python Instructor" width="100%" />
 
-*Case study documentation in progress.*
+### `> EXPERIENCE: PYTHON PROGRAMMING INSTRUCTOR`
 
----
-
-## Programming Instruction
-
-### Python Programming Instructor
-
-Taught introductory Python programming to students,
-supporting their understanding of coding fundamentals
-and computational thinking.
+Taught introductory **Python** programming to students, supporting their understanding of coding fundamentals and computational thinking.
 
 - Explained foundational programming concepts
 - Guided students through coding exercises
 - Supported debugging and problem-solving
-- Adapted technical explanations to students'
-  learning needs
+- Adapted technical explanations to students' learning needs
 
----
+<img src="assets/05-education-file.png" alt="05 — Education File" width="100%" />
 
-## Education
-
-### Florida International University
+### `> FLORIDA INTERNATIONAL UNIVERSITY`
 
 **Bachelor of Arts in Computer Science**  
-*In Progress*
+`STATUS: IN PROGRESS`
 
 **Undergraduate Certificate in Cybersecurity Intelligence and Information Policy**  
-*In Progress*
+`STATUS: IN PROGRESS`
 
-### Indian River State College
+### `> INDIAN RIVER STATE COLLEGE`
 
 **Associate of Arts in Psychology**  
-*Completed*
+`STATUS: COMPLETED`
 
----
+<img src="assets/06-professional-xp.png" alt="06 — Professional XP" width="100%" />
 
-## Professional Background
+### `> REGISTERED BEHAVIOR TECHNICIAN (RBT)`
 
-### Registered Behavior Technician (RBT)
+Professional experience in behavioral services involving systematic observation, data collection, documentation, and evidence-based problem-solving.
 
-Professional experience in behavioral services
-involving systematic observation, data collection,
-documentation, and evidence-based problem-solving.
+**Transferable strengths:**
 
-This experience has strengthened my abilities in:
-
-- Analytical thinking
+- Analytical thinking and problem identification
 - Data collection and documentation
-- Problem identification
 - Professional communication
 - Collaboration and adaptability
 
----
+<img src="assets/07-next-level.png" alt="07 — Next Level" width="100%" />
 
-## Areas of Interest
+```text
+C:\PORTFOLIO> select_interest
+[✓] Software Development
+[✓] Information Technology
+[✓] Computer Systems & Networking
+[✓] Cybersecurity
+[✓] Artificial Intelligence & Machine Learning
+```
 
-- Software Development
-- Information Technology
-- Computer Systems & Networking
-- Cybersecurity
-- Artificial Intelligence & Machine Learning
+*These are areas of interest, not claims of completed projects or professional experience.*
 
----
+<img src="assets/08-connect-portal.png" alt="08 — Connect Portal" width="100%" />
 
 <div align="center">
 
-### Connect
+### `> READY TO CONNECT_`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pramirez-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-ramirez12)
+[![GitHub](https://img.shields.io/badge/GITHUB-VIEW_PROFILE-FF4DCB?style=for-the-badge&logo=github&logoColor=white&labelColor=231334)](https://github.com/pramirez-tech)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-16CFF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=231334)](https://www.linkedin.com/in/pamela-ramirez12)
+
+`< END OF FILE />`
 
 </div>
-
