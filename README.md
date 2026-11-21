@@ -3,7 +3,9 @@
 
 # Pamela Ramirez
 
-<img src="assets/retro-code-arcade-v2.gif" alt="Animated Retro Code Arcade banner for Pamela Ramirez" width="100%" />
+
+<img src="assets/retro-code-arcade.gif" alt="Animated Retro Code Arcade banner for Pamela Ramirez" width="100%" />
+
 
 <br>
 
