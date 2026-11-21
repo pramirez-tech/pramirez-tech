@@ -86,7 +86,15 @@ C:\WINDOWS\SYSTEM32> ncpa.cpl
 
 [![View Case Study](https://img.shields.io/badge/🎮_QUEST_01-VIEW_FULL_CASE_STUDY-FF4DCB?style=for-the-badge&logo=windows11&logoColor=white&labelColor=231334)](https://github.com/pramirez-tech/windows-wifi-troubleshooting)
 
-**[▶ VIEW COMPLETE WINDOWS WI-FI TROUBLESHOOTING PROJECT](https://github.com/pramirez-tech/windows-wifi-troubleshooting)**
+
+
+
+[![OPEN PROJECT](https://img.shields.io/badge/OPEN_PROJECT-321644?style=for-the-badge&logoColor=white)](https://github.com/pramirez-tech/windows-wifi-troubleshooting)
+
+
+
+
+
 
 </div>
 
